@@ -1,0 +1,71 @@
+﻿BOOK ANALYSIS REPORT
+Generated: 01/02/2026 14:27:53
+
+WORD COUNT & STATISTICS:
+Total Words: 29509
+Total Characters (no spaces): 145689
+Average Word Length: 4.94 characters
+Estimated Pages (250 words/page): 118 pages
+Estimated Pages (300 words/page): 98.4 pages
+Average Estimate: ~108.2 pages
+
+LLM-LIKE PATTERNS:
+  'Not [adjective]': 136 occurrences
+  'He/She/They felt': 71 occurrences
+  'Too [adjective]': 65 occurrences
+  'Something': 63 occurrences
+  'Already': 58 occurrences
+  'Just [adjective]': 55 occurrences
+  'That was': 46 occurrences
+  'Someone': 44 occurrences
+  'The way': 44 occurrences
+  'Without [verb]ing': 43 occurrences
+  'He/She/They learned': 39 occurrences
+  'Still': 30 occurrences
+  'It was': 22 occurrences
+  'He/She/They knew': 19 occurrences
+  'He/She/They did not': 18 occurrences
+  'By the time': 13 occurrences
+  'Somewhere': 10 occurrences
+  'The kind that': 3 occurrences
+  'That moment': 2 occurrences
+  'Even as': 1 occurrences
+
+MOST REPETITIVE WORDS (50+ occurrences):
+  'kael': 689 times
+  'that': 441 times
+  'didnt': 330 times
+  'they': 215 times
+  'said': 193 times
+  'with': 150 times
+  'where': 148 times
+  'city': 133 times
+  'into': 132 times
+  'when': 124 times
+  'were': 114 times
+  'then': 112 times
+  'enough': 103 times
+  'this': 92 times
+  'been': 90 times
+  'before': 89 times
+  'just': 89 times
+  'without': 89 times
+  'something': 89 times
+  'them': 88 times
+
+MOST REPETITIVE PHRASES (3-word sequences, 5+ occurrences):
+  'the man said': 18 times
+  'that was the': 17 times
+  'kael felt the': 17 times
+  'by the time': 13 times
+  'enough to be': 12 times
+  'the edge of': 12 times
+  'kael said the': 12 times
+  'the city had': 11 times
+  'and vanished into': 11 times
+  'kael was already': 11 times
+  'just enough to': 11 times
+  'the city was': 11 times
+  'didnt need to': 11 times
+  'kael felt it': 11 times
+  'the time the': 10 times
